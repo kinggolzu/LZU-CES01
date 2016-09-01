@@ -1,2 +1,2 @@
 # LZU-CES01
-Introduction to Computer Science and Engineering
+Welcome to "Introduction to Computer Science and Engineering" Course at Lanzhou University
